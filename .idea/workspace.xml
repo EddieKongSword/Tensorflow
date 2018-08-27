@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea81fb7-239d-4697-be6c-5c4cfacfb698" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST_data/t10k-images-idx3-ubyte.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST_data/t10k-labels-idx1-ubyte.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST_data/train-images-idx3-ubyte.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST_data/train-labels-idx1-ubyte.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1534734946.DESKTOP-BMLVII0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1534750836.DESKTOP-BMLVII0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1534750851.DESKTOP-BMLVII0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1534750859.DESKTOP-BMLVII0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tensorflow demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNN 01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MNIST train 01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add layer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/regression01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/some practices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stock prices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorbroad01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/truncated_normal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/variable.py" />
-    </list>
+    <list default="true" id="1ea81fb7-239d-4697-be6c-5c4cfacfb698" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,25 +28,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MNIST train 01.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MNIST train 01.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MNIST train 01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="987">
               <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNN 01.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CNN 01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1470">
-              <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -516,22 +480,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MNIST train 01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNN 01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
           <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MNIST train 01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="987">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
