@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea81fb7-239d-4697-be6c-5c4cfacfb698" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RNN_01.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MNIST train 01.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RNN_02.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RNN_01.py" afterPath="$PROJECT_DIR$/RNN_01.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +18,13 @@
     <SUITE FILE_PATH="coverage/tensorflow_demo$some_practices.coverage" NAME="some practices Coverage Results" MODIFIED="1535008061024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$tensorbroad01.coverage" NAME="tensorbroad01 Coverage Results" MODIFIED="1534750856148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$tensorflow_example.coverage" NAME="tensorflow example Coverage Results" MODIFIED="1534992365875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_demo$RNN_01.coverage" NAME="RNN_01 Coverage Results" MODIFIED="1535455303904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$MNIST_train_01.coverage" NAME="MNIST train 01 Coverage Results" MODIFIED="1535205522532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$add_layer.coverage" NAME="add layer Coverage Results" MODIFIED="1534990935412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$CNN_01.coverage" NAME="CNN 01 Coverage Results" MODIFIED="1535207606945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$stock_prices.coverage" NAME="stock prices Coverage Results" MODIFIED="1535027883487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$MNIST_train_02.coverage" NAME="MNIST train 02 Coverage Results" MODIFIED="1535030467304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_demo$RNN_02.coverage" NAME="RNN_02 Coverage Results" MODIFIED="1535454949774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$MNIST_DOWNLOAD.coverage" NAME="MNIST DOWNLOAD Coverage Results" MODIFIED="1534747132900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$01.coverage" NAME="01 Coverage Results" MODIFIED="1534657545802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
     <SUITE FILE_PATH="coverage/tensorflow_demo$regression01.coverage" NAME="regression01 Coverage Results" MODIFIED="1534663148704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -32,11 +34,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CNN_01.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CNN_01.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNN_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-696">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="543">
+              <caret line="74" column="26" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RNN_01.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RNN_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -75,6 +89,7 @@
         <option value="$PROJECT_DIR$/MNIST train 02.py" />
         <option value="$PROJECT_DIR$/MNIST train 01.py" />
         <option value="$PROJECT_DIR$/CNN 01.py" />
+        <option value="$PROJECT_DIR$/RNN_02.py" />
         <option value="$PROJECT_DIR$/RNN_01.py" />
       </list>
     </option>
@@ -85,9 +100,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="818" />
-    <option name="y" value="117" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="974" />
+    <option name="y" value="31" />
     <option name="width" value="933" />
     <option name="height" value="913" />
   </component>
@@ -155,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CNN 01">
+  <component name="RunManager" selected="Python.RNN_01">
     <configuration name="CNN 01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +225,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="MNIST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RNN_01" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -223,12 +238,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MNIST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="stock prices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RNN_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -241,25 +256,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow demo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock prices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RNN_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MNIST train 01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.stock prices" />
-      <item index="2" class="java.lang.String" itemvalue="Python.MNIST" />
+      <item index="0" class="java.lang.String" itemvalue="Python.RNN_01" />
+      <item index="1" class="java.lang.String" itemvalue="Python.RNN_02" />
+      <item index="2" class="java.lang.String" itemvalue="Python.MNIST train 01" />
       <item index="3" class="java.lang.String" itemvalue="Python.MNIST train 02" />
       <item index="4" class="java.lang.String" itemvalue="Python.CNN 01" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CNN 01" />
-        <item index="1" class="java.lang.String" itemvalue="Python.MNIST train 01" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MNIST train 02" />
-        <item index="3" class="java.lang.String" itemvalue="Python.stock prices" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MNIST" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.RNN_02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CNN 01" />
+        <item index="2" class="java.lang.String" itemvalue="Python.MNIST train 01" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MNIST train 02" />
       </list>
     </recent_temporary>
   </component>
@@ -286,16 +300,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="818" y="117" width="933" height="913" extended-state="1" />
+    <frame x="974" y="31" width="933" height="913" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24461105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24449594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4958791" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35164836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2491839" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -318,9 +332,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4958791" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35164836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880434" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24461105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24449594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -379,6 +393,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -386,6 +401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="1566" column="0" lean-forward="false" selection-start-line="1566" selection-start-column="0" selection-end-line="1566" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -457,20 +473,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN 01.py" />
     <entry file="file://$PROJECT_DIR$/MNIST train 01.py" />
-    <entry file="file://$PROJECT_DIR$/RNN_01.py">
+    <entry file="file://$PROJECT_DIR$/CNN_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="543">
+          <caret line="74" column="26" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNN_01.py">
+    <entry file="file://$PROJECT_DIR$/RNN_02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-696">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="189">
+          <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding>
+            <element signature="e#39#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RNN_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
